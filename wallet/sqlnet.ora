@@ -1,0 +1,3 @@
+WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY=${TNS_ADMIN})))
+SSL_SERVER_DN_MATCH=yes
+TNS_ADMIN = /Users/stevemorton/node-apps/oraclenode/wallet
